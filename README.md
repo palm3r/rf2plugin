@@ -2,6 +2,9 @@
 
 A simple class for easy development of rFactor2 plugins
 
+**STILL IN DEVELOPMENT,  
+Method signature may be changed frequently.**
+
 ## Features
 
 * Read/Write configuration from/to INI file (rFactor2\Plugins\PLUGIN\PLUGIN.ini)
